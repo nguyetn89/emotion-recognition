@@ -1,7 +1,8 @@
 # Facial emotion recognition
 
 C++ implementation for facial emotion recognition according to [Arriaga's Keras model](https://github.com/oarriaga/face_classification).  
-The CNN weights were converted from the pretrained model [fer2013_mini_XCEPTION.102-0.66.hdf5](https://github.com/oarriaga/face_classification/blob/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5)
+The CNN weights were converted from the pretrained model [fer2013_mini_XCEPTION.102-0.66.hdf5](https://github.com/oarriaga/face_classification/blob/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5)  
+The code was adapted from an example on Caffe repository.
 
 ## Tested system
 * Ubuntu 16.04
