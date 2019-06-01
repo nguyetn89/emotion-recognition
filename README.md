@@ -25,5 +25,5 @@ Performing emotion recognition using default model
 $ ./emotion_recognition.bin --image=image.jpg
 ```
 
-Result (with images from [FEI face database](https://fei.edu.br/~cet/facedatabase.html))
+Result (with images from [FEI face database](https://fei.edu.br/~cet/facedatabase.html))  
 <img src="result.png">
