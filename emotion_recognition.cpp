@@ -277,7 +277,7 @@ int main(int argc, char** argv) {
         cap.release();
     }
     
-    // process image
+    /* Image processing */
     if(!image_file.empty())
     {
         cv::Mat img = cv::imread(image_file, -1);
